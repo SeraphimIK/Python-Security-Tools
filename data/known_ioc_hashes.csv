@@ -1,0 +1,5 @@
+hash,hash_type,threat_name,source
+44d88612fea8a8f36de82e1278abb02f,MD5,EICAR-Test-File,Sample IOC list
+3395856ce81f2b7382dee72602f798b642f14140,SHA1,EICAR-Test-File,Sample IOC list
+275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0,SHA256,EICAR-Test-File,Sample IOC list
+e1112134b6dcc8bed54e0e34d8ac272795e73d74e2b2b8c9e11e099e19a2c39,SHA256,Simulated-Malware-Sample-1,Sample IOC list

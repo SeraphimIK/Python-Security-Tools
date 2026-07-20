@@ -1,0 +1,14 @@
+Incident Notes - 2026-07-15
+
+Suspicious outbound connection observed from workstation WS-042 to
+185.220.101.47 on port 443. DNS query logs show resolution of
+malicious-update-service.net immediately prior to the connection.
+
+Follow-up: email phishing lure sent from support@paypa1-secure.com
+was reported by a user (jsmith@company.com). Attachment hash:
+d41d8cd98f00b204e9800998ecf8427e (MD5).
+
+A second host, 10.0.14.88, reached out to 91.219.237.19 shortly after.
+Related domain observed in proxy logs: cdn-update-check.info
+
+SHA256 of dropped payload: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
